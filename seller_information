@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook Groups Advertising</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: #0078D4;
+            margin-bottom: 5px;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        .group-link {
+            color: #0078D4;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .group-link:hover {
+            text-decoration: underline;
+        }
+
+        .pricing-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        .pricing-table th, .pricing-table td {
+            padding: 10px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .pricing-table th {
+            background-color: #f2f2f2;
+        }
+
+        .payment-info {
+            background-color: #f2f2f2;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .payment-info p {
+            margin: 0;
+        }
+
+        .payment-info strong {
+            font-weight: bold;
+        }
+
+        .email-address {
+            color: #0078D4;
+            font-weight: bold;
+        }
+
+        .note {
+            color: #888;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Facebook Groups Advertising Service</h1>
+
+    <h2>Group Links:</h2>
+    <ul>
+        <li><a href="https://www.facebook.com/groups/huge.bargains.uk.latest.discount.codes.deals" class="group-link">Huge Bargains UK - Latest Discount Codes - Deals - Misprices Group</a></li>
+        <li><a href="https://www.facebook.com/groups/332377190602769" class="group-link">Latest Deals, Extreme Couponing & Bargains Group (UK Only) </a></li>
+        <li><a href="https://www.facebook.com/groups/2616318705351789" class="group-link">MORE BARGAINS - UK Group</a></li>
+    </ul>
+
+    <h2>Pricing if Seller posts in groups themselves and admins approve it:</h2>
+    <table class="pricing-table">
+        <tr>
+            <th>Number of Deals</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>1 deal</td>
+            <td>£15</td>
+        </tr>
+        <tr>
+            <td>2 deals</td>
+            <td>£10</td>
+        </tr>
+        <tr>
+            <td>4 deals</td>
+            <td>£15</td>
+        </tr>
+        <tr>
+            <td>10 deals</td>
+            <td>£30</td>
+        </tr>
+    </table>
+
+    <h2>Pricing if admin posts for the seller in groups:</h2>
+    <table class="pricing-table">
+        <tr>
+            <th>Number of Deals</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>1 deal</td>
+            <td>£10</td>
+        </tr>
+        <tr>
+            <td>2 deals</td>
+            <td>£20</td>
+        </tr>
+        <tr>
+            <td>5 deals</td>
+            <td>£45</td>
+        </tr>
+        <tr>
+            <td>10 deals</td>
+            <td>£80</td>
+        </tr>
+    </table>
+
+    <div class="payment-info">
+        <p>To proceed with your ad, please follow these steps:</p>
+        <ol>
+            <li>Send the payment via PayPal to <span class="email-address">mymail@gmail.com</span>. Seller must cover PayPal fees.</li>
+            <li>Include the following details in the PayPal payment description:
+                <ul>
+                    <li><strong>Your Facebook Group URL:</strong> www.facebook.com/your-group-url</li>
+                    <li><strong>Type of Deal(s) Purchased:</strong> e.g., 2 deals, 4 deals</li>
+                </ul>
+            </li>
+        </ol>
+        <p class="note">Note: Your ad will be posted once the payment is confirmed.</p>
+    </div>
+
+    <!-- Add any additional information or contact details if needed -->
+
+</body>
+</html>
